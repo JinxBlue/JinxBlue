@@ -3,7 +3,7 @@
 
 Since October 2023, I started my dev life.
 
-I used to with children, and now I work with Arch Linux and way too much Monster Energy, or sometimes coffee or water (DRINK, it's important).
+I used to with children, and now I work with Arch Linux and way too much Monster Energy, or sometimes coffee or water (DRINK WATER, it's important, instead of using it to ask stuff to IA).
 
 I learn techie stuff by myself (and with the help of my personal Judy Alvarez, she'll recognize herself <3)
 
