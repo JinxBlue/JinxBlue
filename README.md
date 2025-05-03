@@ -1,19 +1,19 @@
-# Hi, I'm Chloe, AKA Jinxed Quinn 🐺
+# Hi, I'm JinxBlue 🐺
 
 
 Since October 2023, I started my dev life.
 
-I used to with children, and now I work with a MacBook and way too much coffee, or sometimes an Energy Drink.
+I used to with children, and now I work with Arch Linux and way too much Monster Energy, or sometimes coffee or water (DRINK, it's important).
 
-I learned all the stuff I know in [Ada Tech School](https://adatechschool.fr).
+I learn techie stuff by myself (and with the help of my personal Judy Alvarez, she'll recognize herself <3)
 
 * 🌍  I'm based in France
-* 🖥️  See my portfolio at [this link, it's my portfolio.](https://chloenicolini.vercel.app) And you can contact me on it !
-* 🚀  I'm currently working on a great football website which is called [Pride Score](/), and I really want this project to work.
-* 🧠  I'm learning React, NextJS, TypeScript, TailwindCSS, and I'm trying to be a full-satck developper.
-* 🤝  I'm open to collaborating on both front and back end projects with creative aspects.
+* 🖥️  See my portfolio at -to rebuild but better And you can contact me on it !
+* 🚀  I'm currently working on a great football website which is called [Pride Score](/), and I really want this project to work, I'll build it later with Judy.
+* 🧠  I'm learning how an Arch Linux computer work, yep, I kinda stopped working to enter the not-so-amazing world of New Age Tech, because NAH I don't like Vibe Coding.
+* 🤝  I'm open to collaborating on whatever will come, that will be amazing.
 
-## Skills
+## Skills I first developped
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/fr/docs/Web/JavaScript)
 
