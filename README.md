@@ -10,7 +10,7 @@ I learn techie stuff by myself (and with the help of my personal Judy Alvarez, s
 * 🌍  I'm based in France
 * 🖥️  See my portfolio at -to rebuild but better And you can contact me on it !
 * 🚀  I'm currently working on a great football website which is called [Pride Score](/), and I really want this project to work, I'll build it later with Judy.
-* 🧠  I'm learning how an Arch Linux computer work, yep, I kinda stopped working to enter the not-so-amazing world of New Age Tech, because NAH I don't like Vibe Coding.
+* 🧠  I'm learning how an Arch Linux computer work, yep, I kinda stopped working to enter the not-so-amazing world of New Age Tech, because NAH I don't like Vibe Coding. Instead, I wanna do CyberSecurity.
 * 🤝  I'm open to collaborating on whatever will come, that will be amazing.
 
 ## Skills I first developped
